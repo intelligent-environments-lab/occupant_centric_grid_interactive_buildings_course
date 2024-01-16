@@ -1,0 +1,406 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Homework1 (Due 9/13 Thursday)\n",
+    "- Please replace <?> with proper python syntax. \n",
+    "- You can make your own python script as well.\n",
+    "- Please run each line of your assignment.\n",
+    "- Please save your jupyter notebook file into 2 SBAC_Fa18_HW1_YourName.pdf formats."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Q1"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "** Q1.1 Generate Numpy array for following information (points: 0.5)** \n",
+    "\n",
+    "Name: 'Laura', 'Mike', 'Sarah', 'John' (data type = string)\n",
+    "\n",
+    "Major: 'CAEE', 'CAEE', 'ME', 'CAEE' (data type = string)\n",
+    "\n",
+    "Exam1: 95, 94, 94, 92 (data type = float)\n",
+    "\n",
+    "Exam2: 85, 80, 82, 65 (data type = float)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "import ? as np"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Name = np.?(['Laura', 'Mike', 'Sarah', 'John'], dtype=?)\n",
+    "Name"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Major = np.?(['CAEE', 'CAEE', 'ME', 'CAEE'], dtype=?)\n",
+    "Major"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Exam1 = np.?([95, 94, 94, 92], dtype=?)\n",
+    "Exam1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Exam2 = np.?([85, 80, 82, 65], dtype=?)\n",
+    "Exam2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "** Q1.2 Add new student information on existing arrays (points: 0.5) **\n",
+    "\n",
+    "Name: Kevin,\n",
+    "Major: ME,\n",
+    "Exam1: 85,\n",
+    "Exam2: 89"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Name = np.?(?, ['Kevin'], axis=?)\n",
+    "Name"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Major = np.?(?, ['ME'], axis=?)\n",
+    "Major"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Exam1 = np.?(?, [85], axis=?)\n",
+    "Exam1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Exam2 = np.?(?, [89], axis=?)\n",
+    "Exam2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Q2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "** Q2.1 Generate Exam 3 scores list using Numpy random number generator. The scores should be in between 0 and 100. (points: 1) **"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Exam3 = np.?.?(?, size=?)\n",
+    "Exam3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "** Q2.2 Generate Exam 4 scores list using Numpy normal distribution generator. The scores should have (mean=80) and (std=5).  (points: 1)**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Exam4 = np.?.?(?, ?, (?))\n",
+    "Exam4"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Q3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "** Q3.1 Calculate average score for each exam. (points: 0.5) **"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "np.?(Exam1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "np.?(Exam2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "np.?(Exam3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "np.?(Exam4)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "** Q3.2 Calculate average score for each student. (points: 0.5) **"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Avg = np.?([?, ?, ?, ?],axis=?,dtype=float)\n",
+    "Avg"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Q4"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "** Q4.1 Using For loop and If statement, determine Pass/Fail of each student based their averaged scores (>80: P, <79: F) (points: 2) **"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Grade_1 = np.?(len(?), dtype=str)\n",
+    "\n",
+    "? i in range(len(?)):\n",
+    "    ? ?[i]>80:\n",
+    "        ?[i] = 'p'\n",
+    "    ?:\n",
+    "        ?[i] = 'f'\n",
+    "        \n",
+    "Grade_1"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "** Q4.2 Using Numpy or Pandas library, determine Pass/Fail of each student based their averaged scores (>80: P, <79: F) (points: 2) **"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Grade_2 = np.?(?>80, 'p', 'f')\n",
+    "\n",
+    "Grade_2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": true
+   },
+   "source": [
+    "## Q5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": true
+   },
+   "source": [
+    "** Q5.1 Construct Final array with Name and Grade_2 (points: 1) **"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "Final = np.?([?, ?])\n",
+    "Final"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": true
+   },
+   "source": [
+    "** Q5.2 Determine dimension, shape, size, and filesize of Final array (points: 1)**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "print(\"dimension: \", ?.?)\n",
+    "print(\"shape: \", ?.?)\n",
+    "print(\"size: \", ?.?)\n",
+    "print(\"filesize: \", ?.?, \"bytes\")"
+   ]
+  }
+ ],
+ "metadata": {
+  "anaconda-cloud": {},
+  "kernelspec": {
+   "display_name": "Python [default]",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
