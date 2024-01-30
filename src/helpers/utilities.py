@@ -27,6 +27,7 @@ class FileHandler:
 class Southern_Company_Smart_Neighborhood:
     DEFAULT_DATA_DIRECTORY = Path(FileHandler.get_settings()['southern_company_smart_neighborhood']['root_directory'])
     METADATA_DIRECTORY = os.path.join(DEFAULT_DATA_DIRECTORY, 'metadata')
+    FIGURES_DIRETORY = os.path.join(DEFAULT_DATA_DIRECTORY, 'figures')
 
     @staticmethod
     def get_all_file_column_summary_statistics(directory: Union[str, Path] = None, timestamp_columns: List[str] = None) -> Tuple[pd.DataFrame, pd.DataFrame]:
