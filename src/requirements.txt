@@ -2,5 +2,8 @@ ipykernel
 matplotlib
 numpy
 pandas
+plotly
+pyarrow
+pyyaml
 scikit-learn
 seaborn
