@@ -18,5 +18,5 @@ This repository contains lecture and source code content for the course.
 
 ### Week 3 - 20240131 ###
 - Lecture notes
-- Activity 3
-- Homework 2
+- Tutorial: sqlite relational databases
+- [Homework 2](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/notebooks/homework/homework_2.ipynb)
