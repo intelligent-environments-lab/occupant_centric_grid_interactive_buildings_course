@@ -165,3 +165,8 @@ cython_debug/
 docs/build/*
 docs/_build/*
 docs/source/api/
+
+# ignore databases
+*.db
+*.sqlite3
+*.sql
