@@ -4,16 +4,22 @@
 This repository contains lecture notes and jupyter notebooks for the course.
 
 
-_Note 1_: The course assumes no programming knowledge, but relies on heavy programming components with a steep learning curve. There is a ChatGPT trained with access to the same course materials to support the learning experience. Here is the public access (requires ChatGPT Plus subscription): https://chat.openai.com/g/g-OFAttq2Or-gpta 
+_Note 1_: The course assumes no programming knowledge, but relies on heavy programming components with a steep learning curve. There is a ChatGPT trained with access to the same course materials to support the learning experience. Here is the public access (requires ChatGPT Plus subscription): https://chat.openai.com/g/g-OFAttq2Or-gpta
+
+If you can, please [provide anonymous feedback](https://forms.gle/DYwHeBhVKpinuiyE9) on your interaction, so we can improve it.
 
 
 _Note 2_: Some of the homework content requires access to non-public AMI data (eg HW2), you can replace those with other AMI data, e.g., from the Building Genome Project.
 
-_Note 3_: The class features and excellent guest lecture webinar that is public. You can sign up for it here: https://www.eventbrite.com/e/grid-interactive-buildings-webinar-series-tickets-781139989737
+_Note 3_: The class features a public guest lecture webinar with industry experts. You can sign up for it here: https://www.eventbrite.com/e/grid-interactive-buildings-webinar-series-tickets-781139989737
 
 
 ## Overview ##
 The class is organized in three main modules: Machine Learning (W1-W4), Occupant Behavior and Building Energy (W5-W8), and Grid-Interactive Buildings (W9-11). The class concludes with a project using [CityLearn](http://www.citylearn.net) (W12-W15).
+
+- Instructor: [Zoltan Nagy](https://www.ie-lab.org/author/zoltan-nagy/)
+- TA (Jupyter notebooks): [Kingsley Nweye](https://kingsleynweye.com/)
+- TA (GPT TA): Ting-Yu Dai
 
 ### Week 1 - 20240117 ###
 #### Introduction / Overview ####
@@ -41,22 +47,22 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 
 
 ### Week 5 - 20240214 ###
-#### Occupant Behavior ####
+#### Occupant Behavior and Building Energy ####
 - Lecture notes
 
 
 ### Week 6 - 20240221 ###
-#### Occupant Behavior ####
+#### Occupant Behavior and Building Energy  ####
 - Lecture notes
 - Guest Lecture: Tanya Barham, Community Energy Labs
 
 ### Week 7 - 20240228 ###
-#### Occupant Behavior ####
+#### Occupant Behavior and Building Energy  ####
 - Lecture notes
 - Guest Lecture: Jessica Granderson, LBNL
 
 ### Week 8 - 20240306 ###
-#### Occupant Behavior ####
+#### Occupant Behavior and Building Energy  ####
 - Lecture notes
 - Guest Lecture: Hussain Kazmi, KU Leuven
 
