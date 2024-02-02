@@ -1,6 +1,14 @@
-# Occupant-centric grid interactive buildings course
+# Occupant-centric grid interactive buildings (Spring 2024, UT Austin)
 
-This repository contains lecture and source code content for the course.
+
+This repository contains lecture notes and jupyter notebooks for the course.
+
+
+_Note 1_: The course relies on heavy programming with a steep learning curve. There is a ChatGPT trained with access to the same course materials to support the learning experience. Here is the public access (requires ChatGPT Plus subscription): https://chat.openai.com/g/g-OFAttq2Or-gpta 
+
+
+_Note 2_: Some of the homework content requires access to non-public AMI data (eg HW2), you can replace those with other AMI data, e.g., from the Building Genome Project.
+
 
 ## Overview ##
 
