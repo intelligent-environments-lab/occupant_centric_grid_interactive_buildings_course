@@ -57,8 +57,8 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 ### Week 4 - 20240207 ###
 #### Machine Learning III ####
 - [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_04.pdf)
-- [Activity Part 1: SAX for motif/discord detection](https://nbviewer.org/github/buds-lab/day-filter/blob/master/DayFilter%20Process%20-%20Part%201%20-%20SAX.ipynb)
-- [Activity Part 2: Clustering of motif candidates](https://nbviewer.org/github/buds-lab/day-filter/blob/master/DayFilter%20Process%20-%20Part%202%20-%20Clustering%20Motif%20Candidates.ipynb)
+- [Tutorial Part 1: SAX for motif/discord detection](https://nbviewer.org/github/buds-lab/day-filter/blob/master/DayFilter%20Process%20-%20Part%201%20-%20SAX.ipynb)
+- [Tutorial Part 2: Clustering of motif candidates](https://nbviewer.org/github/buds-lab/day-filter/blob/master/DayFilter%20Process%20-%20Part%202%20-%20Clustering%20Motif%20Candidates.ipynb)
 - [Homework 3](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/notebooks/homework/Homework_3.ipynb)
 - Guest Lecture: Just Hill, Southern Company
 
