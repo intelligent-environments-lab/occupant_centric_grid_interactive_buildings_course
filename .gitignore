@@ -170,3 +170,6 @@ docs/source/api/
 *.db
 *.sqlite3
 *.sql
+
+# ignore homework solution
+src/notebooks/homework_solution
