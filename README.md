@@ -71,7 +71,7 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 
 ### Week 6 - 20240221 ###
 #### Occupant Behavior and Building Energy  ####
-- Lecture notes
+- [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_06.pdf)
 - Guest Lecture: Tanya Barham, Community Energy Labs
 
 ### Week 7 - 20240228 ###
