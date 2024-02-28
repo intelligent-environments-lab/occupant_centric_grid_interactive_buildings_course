@@ -72,12 +72,14 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 ### Week 6 - 20240221 ###
 #### Occupant Behavior and Building Energy  ####
 - [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_06.pdf)
-- Guest Lecture: Tanya Barham, Community Energy Labs, [Slides](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/20240221_GEBsTalk.pdf)
+- Guest Lecture: Tanya Barham, Community Energy Labs, [Slides](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/20240221_GEBsTalk.pdf)[Recording](https://youtu.be/aKEUyQCbWuY)
 
 ### Week 7 - 20240228 ###
 #### Occupant Behavior and Building Energy  ####
-- Lecture notes
-- Guest Lecture: Jessica Granderson, LBNL
+- [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_07.pdf) 
+- [Activity: Modeling occupancy in single person offices](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/wang05.pdf)
+- [Homework 4:](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/notebooks/homework/Homework_4.ipynb) 
+- Guest Lecture: Jessica Granderson, LBNL, [slides] [recording]
 
 ### Week 8 - 20240306 ###
 #### Occupant Behavior and Building Energy  ####
