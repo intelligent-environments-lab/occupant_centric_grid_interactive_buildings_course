@@ -171,5 +171,10 @@ docs/source/api/
 *.sqlite3
 *.sql
 
+
+# ignore anything in notebooks that is not a .ipynb file
+src/notebooks/*/*
+!src/notebooks/*/*.ipynb
+!src/notebooks/activity/energyData.csv
 # ignore homework solution
-src/notebooks/homework_solution
+src/notebooks/homework_solution/*.ipynb
