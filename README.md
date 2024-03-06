@@ -78,12 +78,13 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 #### Occupant Behavior and Building Energy  ####
 - [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_07.pdf) 
 - [Activity: Modeling occupancy in single person offices](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/wang05.pdf)
-- [Homework 4:](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/notebooks/homework/Homework_4.ipynb) 
+- [Homework 4: Create stochastic occupancy profiles](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/notebooks/homework/Homework_4.ipynb) 
 - Guest Lecture: Jessica Granderson, LBNL, [[Slides](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/ScalingGEBLectureFeb2024.pdf)], [[Recording](https://youtu.be/ixnUXH4lqDY)]
 
 ### Week 8 - 20240306 ###
 #### Occupant Behavior and Building Energy  ####
-- Lecture notes
+- [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_08.pdf)
+- [Homework 5: Impact of Occupancy on Energy Use](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/notebooks/homework/homework_5.ipynb) 
 - Guest Lecture: Hussain Kazmi, KU Leuven
 
 ### Week 9 - 20240313 ###
