@@ -93,7 +93,9 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 
 ### Week 10 - 20240320 ###
 #### Grid-Interactive Buildings ####
-- Lecture notes
+- [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_09.pdf)
+- [All you need to know about model predictive control for buildings](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/drgona20.pdf)
+- [Data-driven modeling of building thermal dynamics: Methodology and state of the art](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/wang19.pdf)
 - Guest Lecture: Ankush Chakrabarty (MERL)
 
 ### Week 11 - 20240327 ###
