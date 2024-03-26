@@ -85,7 +85,7 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 #### Occupant Behavior and Building Energy  ####
 - [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_08.pdf)
 - [Homework 5: Impact of Occupancy on Energy Use](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/notebooks/homework/homework_5.ipynb) 
-- Guest Lecture: Hussain Kazmi, KU Leuven, [[Slides]()][[Recording](https://youtu.be/ug52iroHAyg)]
+- Guest Lecture: Hussain Kazmi, KU Leuven, [[Slides](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/UTAustin_Talk_Primer.pdf)][[Recording](https://youtu.be/ug52iroHAyg)]
 
 ### Week 9 - 20240313 ###
 #### Spring Break ####
@@ -96,7 +96,7 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 - [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_09.pdf)
 - [All you need to know about model predictive control for buildings](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/drgona20.pdf)
 - [Data-driven modeling of building thermal dynamics: Methodology and state of the art](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/wang19.pdf)
-- Guest Lecture: Ankush Chakrabarty (MERL) ([Slides](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/v5_UTA_talk_chakrabarty_mar_2024.pdf))
+- Guest Lecture: Ankush Chakrabarty (MERL) [[Slides](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/v5_UTA_talk_chakrabarty_mar_2024.pdf)]
 
 ### Week 11 - 20240327 ###
 #### Grid-Interactive Buildings ####
