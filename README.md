@@ -85,7 +85,7 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 #### Occupant Behavior and Building Energy  ####
 - [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_08.pdf)
 - [Homework 5: Impact of Occupancy on Energy Use](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/notebooks/homework/homework_5.ipynb) 
-- Guest Lecture: Hussain Kazmi, KU Leuven
+- Guest Lecture: Hussain Kazmi, KU Leuven, [[Slides]()][[Recording](https://youtu.be/ug52iroHAyg)]
 
 ### Week 9 - 20240313 ###
 #### Spring Break ####
