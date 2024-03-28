@@ -101,7 +101,7 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 ### Week 11 - 20240327 ###
 #### Grid-Interactive Buildings ####
 - [Lecture notes](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/CE397_OCCGEB_Sp24_10.pdf)
-- Guest Lecture: Donghun Kim (LBNL)
+- Guest Lecture: Donghun Kim (LBNL) [[Slides](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/TexasAustin_Guest_Lecture_DKim_LBNL.pdf)][[Recording](https://youtu.be/QJ-qkFStYpc?feature=shared)]
 
 ### Week 12 - 20240403 ###
 #### Grid-Interactive Buildings ####
